@@ -1,44 +1,34 @@
 # Hi, I'm Arnau! 👋
 
 ## About me
-🎓 **Smart Cities and Sustainable Engineering** student at UAB Barcelona (graduating 2026)
 
-Passionate about applying artificial intelligence to solve real-world problems, especially in smart urban environments. My goal is to combine AI with fullstack development to create solutions that improve city life.
+🚀 Engineer building AI systems that work in production.
 
-## 🧠 Current Focus
-- 🤖 **AI & LLMs**: Working with LangGraph, AutoGen, and OpenAI/Claude models
-- 🏙️ **Smart Cities**: Applying IoT and data analysis for sustainable urban solutions  
-- 💻 **Fullstack Development**: Learning React, Next.js, and FastAPI to build complete applications
-- 📊 **Data Science**: Python, data analysis, and machine learning
+Currently building multi-agent AI systems at **M.IA** — a Wayra Barcelona-backed startup automating treasury management for SMEs, using LangChain, LangGraph, and Claude API.
+
+Also built **MEMEnginy HUB** — a fullstack platform connecting 2,000+ engineering students with 75+ companies, deployed live at UAB Career Fair (March 2026).
+
+📍 Barcelona · 🎓 BSc Smart Cities Engineering @UAB (2026)
 
 ## 🚀 Featured Projects
-- 🏙️ **Urban Mobility Dashboard** - Real-time dashboard for sustainable mobility in Barcelona
-- 🤖 **AI Agent Automation** - Intelligent agents using LangGraph for process automation
-- 📊 **Smart Cities Data Analysis** - ML models for urban pattern prediction
+
+- 🤖 **M.IA** — Multi-agent AI system for treasury automation (LangChain, LangGraph, Claude API, FastAPI)
+- 🏗️ **MEMEnginy HUB** — Production platform for students and companies (Next.js, FastAPI, GCP)
+- 📊 **TFG** — Renewable energy forecasting with LSTM, Prophet and XGBoost (REE + AEMET data)
+- 🍽️ **Restaurant Workflow** — AI-powered WhatsApp assistant for restaurants with automated reservations
 
 ## 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arnauropero&show_icons=true&theme=radical)
+## 📫 Connect
 
-## 🎯 2026 Goals
-- Complete internship in fullstack development or applied AI
-- Contribute to open source Smart Cities projects
-- Develop solutions combining AI with urban sustainability
-- Master modern web technologies and AI frameworks
-
-## 📫 Connect with me
-- 📧 Email: arnauroperouab@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/arnau-ropero-garcia
-- 🌐 Location: Barcelona, Spain
-
----
-💡 **Looking for 2026 internship opportunities!** Interested in projects combining AI, web development, and social impact.
+- 💼 [LinkedIn](https://www.linkedin.com/in/arnau-ropero-garcia)
+- 📧 arnauroperouab@gmail.com
