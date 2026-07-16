@@ -4,7 +4,7 @@
   
   # Arnau Ropero Garcia
 
-  **Building AI systems that work in production**
+  **Building AI-powered products, front to back**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnau-ropero-garcia)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arnauroperouab@gmail.com)
@@ -16,11 +16,11 @@
 
 ## About me
 
-AI Developer Intern at **M.IA** — a Wayra Barcelona-backed startup building multi-agent systems that automate treasury management for SMEs. Day-to-day work with LangChain, LangGraph, FastAPI and Claude API in real production environments.
+Most recently, AI Engineer Intern at **M.IA** — a Wayra Barcelona-backed startup building multi-agent systems that automate treasury management for SMEs. I owned much of the product's frontend (dashboard, AI chat interface) with a focus on UX and performance (Mantine, hydration, Core Web Vitals), and contributed on the backend building data models and pipelines with FastAPI on Google Cloud Platform.
 
 Also built **MEMEnginy HUB**, a fullstack platform deployed live at UAB connecting students with companies.
 
-📍 Barcelona · 🎓 BSc Smart Cities Engineering @UAB (2026)
+📍 Barcelona · 🎓 BSc Smart Cities Engineering @UAB (2026) · 🎓 MSc Data Science incoming @ La Salle
 
 ---
 
@@ -28,7 +28,7 @@ Also built **MEMEnginy HUB**, a fullstack platform deployed live at UAB connecti
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 **M.IA** | Multi-agent treasury automation for SMEs | LangChain · LangGraph · Claude API · FastAPI |
+| 🤖 **M.IA** | Frontend (dashboard, chat UI) + backend data pipelines for a multi-agent treasury platform | Mantine · React · FastAPI · GCP |
 | 🏗️ **MEMEnginy HUB** | Production platform · 2,000+ students · 75+ companies | Next.js · FastAPI · GCP |
 | 📊 **TFG** | Renewable energy forecasting | LSTM · Prophet · XGBoost |
 | 🍽️ **Restaurant Workflow** | AI WhatsApp assistant with reservations | Claude API · FastAPI · Twilio |
@@ -36,13 +36,6 @@ Also built **MEMEnginy HUB**, a fullstack platform deployed live at UAB connecti
 ---
 
 ## 🛠️ Tech Stack
-
-**AI & Agents**
-
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=flat-square&logo=chainlink&logoColor=white)
-![Claude API](https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Backend & Infra**
 
@@ -57,6 +50,11 @@ Also built **MEMEnginy HUB**, a fullstack platform deployed live at UAB connecti
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Mantine](https://img.shields.io/badge/-Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white)
+
+**ML / Data**
+
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -64,5 +62,4 @@ Also built **MEMEnginy HUB**, a fullstack platform deployed live at UAB connecti
 
 ![](https://img.shields.io/badge/Students_connected-2,000+-6366f1?style=flat-square)
 ![](https://img.shields.io/badge/Companies_on_platform-75+-6366f1?style=flat-square)
-![](https://img.shields.io/badge/Agents_in_production-3+-6366f1?style=flat-square)
 ![](https://img.shields.io/badge/Startup_backed_by-Wayra_Barcelona-6366f1?style=flat-square)
