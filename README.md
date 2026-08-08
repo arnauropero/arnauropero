@@ -16,7 +16,7 @@
 
 ## About me
 
-Most recently, AI Engineer Intern at **M.IA** — a Wayra Barcelona-backed startup building multi-agent systems that automate treasury management for SMEs. I owned much of the product's frontend (dashboard, AI chat interface) with a focus on UX and performance (Mantine, hydration, Core Web Vitals), and contributed on the backend building data models and pipelines with FastAPI on Google Cloud Platform.
+Former AI Engineer Intern at **M.IA**, a Wayra Barcelona-backed startup building multi-agent systems that automate treasury management for SMEs. I owned much of the product's frontend (dashboard, AI chat interface) with a focus on UX and performance (Mantine, hydration, Core Web Vitals), and contributed on the backend building data models and pipelines with FastAPI on Google Cloud Platform.
 
 Also built **MEMEnginy HUB**, a fullstack platform deployed live at UAB connecting students with companies.
 
@@ -28,7 +28,7 @@ Also built **MEMEnginy HUB**, a fullstack platform deployed live at UAB connecti
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 **M.IA** | Frontend (dashboard, chat UI) + backend data pipelines for a multi-agent treasury platform | Mantine · React · FastAPI · GCP |
+| 🏠 **EstateIQ** | Live ML API valuing Barcelona apartments from real listings + neighborhood data, full CI/CD to production | FastAPI · scikit-learn · MLflow · Docker · GitHub Actions |
 | 🏗️ **MEMEnginy HUB** | Production platform · 2,000+ students · 75+ companies | Next.js · FastAPI · GCP |
 | 📊 **TFG** | Renewable energy forecasting | LSTM · Prophet · XGBoost |
 | 🍽️ **Restaurant Workflow** | AI WhatsApp assistant with reservations | Claude API · FastAPI · Twilio |
@@ -44,6 +44,7 @@ Also built **MEMEnginy HUB**, a fullstack platform deployed live at UAB connecti
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Frontend**
 
@@ -55,6 +56,7 @@ Also built **MEMEnginy HUB**, a fullstack platform deployed live at UAB connecti
 **ML / Data**
 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 ---
 
