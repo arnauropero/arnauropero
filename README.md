@@ -16,9 +16,21 @@
 
 ## About me
 
-Former AI Engineer Intern at **M.IA**, a Wayra Barcelona-backed startup building multi-agent systems that automate treasury management for SMEs. I owned much of the product's frontend (dashboard, AI chat interface) with a focus on UX and performance (Mantine, hydration, Core Web Vitals), and contributed on the backend building data models and pipelines with FastAPI on Google Cloud Platform.
-
-Also built **MEMEnginy HUB**, a fullstack platform deployed live at UAB connecting students with companies.
+Engineering graduate starting an MSc in Data Science at La Salle, building AI and Machine Learning systems that solve real-world problems.
+ 
+Most recently, I worked as an AI Engineer Intern at M.IA, a Wayra Barcelona-backed startup building multi-agent AI systems to automate treasury management for SMEs. I owned much of the product's frontend — the dashboard and AI chat interface — with a focus on UX and performance (Mantine, hydration, Core Web Vitals), and contributed on the backend, building data models and pipelines with FastAPI on Google Cloud Platform.
+ 
+Previously built MEMEnginy, a full-stack platform connecting students with companies, using Next.js, FastAPI and GCP.
+ 
+Developed Machine Learning forecasting models (LSTM, Prophet, XGBoost) for renewable energy prediction using real-world weather and grid data.
+ 
+Areas of interest:
+ 
+Machine Learning and Artificial Intelligence
+Data-driven systems and predictive modelling
+Building scalable, production-ready software
+ 
+Currently focused on my MSc in Data Science, deepening my skills in ML and AI engineering, and building new applied projects along the way. Open to hearing about opportunities in data science, ML, and AI engineering.
 
 📍 Barcelona · 🎓 BSc Smart Cities Engineering @UAB (2026) · 🎓 MSc Data Science incoming @ La Salle
 
