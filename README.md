@@ -26,9 +26,9 @@ Developed Machine Learning forecasting models (LSTM, Prophet, XGBoost) for renew
  
 Areas of interest:
  
-Machine Learning and Artificial Intelligence
-Data-driven systems and predictive modelling
-Building scalable, production-ready software
+- Machine Learning and Artificial Intelligence
+- Data-driven systems and predictive modelling
+- Building scalable, production-ready software
  
 Currently focused on my MSc in Data Science, deepening my skills in ML and AI engineering, and building new applied projects along the way. Open to hearing about opportunities in data science, ML, and AI engineering.
 
@@ -40,10 +40,11 @@ Currently focused on my MSc in Data Science, deepening my skills in ML and AI en
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏠 **EstateIQ** | Live ML API valuing Barcelona apartments from real listings + neighborhood data, full CI/CD to production | FastAPI · scikit-learn · MLflow · Docker · GitHub Actions |
+| ⚖️ **[EU AI Check](https://github.com/arnauropero/eu-ai-check)** | EU AI Act compliance checker: risk tier, prohibitions, roles and obligations, each tied to the article it rests on · pre-registered evaluation | Python · OpenAI API · Pydantic · pytest · GitHub Actions |
+| 🏠 **[EstateIQ](https://github.com/arnauropero/estateIQ)** | Live ML API valuing Barcelona apartments from real listings + neighborhood data, full CI/CD to production | FastAPI · scikit-learn · MLflow · Docker · GitHub Actions |
 | 🏗️ **MEMEnginy HUB** | Production platform · 2,000+ students · 75+ companies | Next.js · FastAPI · GCP |
-| 📊 **TFG** | Renewable energy forecasting | LSTM · Prophet · XGBoost |
-| 🍽️ **Restaurant Workflow** | AI WhatsApp assistant with reservations | Claude API · FastAPI · Twilio |
+| 📊 **[TFG](https://github.com/arnauropero/bachelor-thesis-renewable-energy-ml)** | Renewable energy forecasting | LSTM · Prophet · XGBoost |
+| 🍽️ **[Restaurant Workflow](https://github.com/arnauropero/restaurant-workflow)** | AI WhatsApp assistant with reservations | Claude API · FastAPI · Twilio |
 
 ---
 
